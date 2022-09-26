@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+biphenyl.gro
+biphenyl.inpcrd
+biphenyl.lmp
+biphenyl.pdb
+biphenyl.prmtop
+biphenyl.top
+data.lmp
+out.inpcrd
+out.prmtop

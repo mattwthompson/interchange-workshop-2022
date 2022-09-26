@@ -1,0 +1,10 @@
+name: interchange-workshop
+channels:
+  - jaimergp/label/unsupported-cudatoolkit-shim
+  - conda-forge
+dependencies:
+  - openff-toolkit >=0.11.0
+  - nglview
+  - ipywidgets >7,<8  # https://github.com/nglviewer/nglview/issues/1032
+  - gromacs >=2021=nompi*
+  - panedr

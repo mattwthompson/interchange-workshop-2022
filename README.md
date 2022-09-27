@@ -32,5 +32,5 @@ Instructive notebooks we will be going through today:
 * `notebooks/exploration.ipynb`: Inspecting potential handlers directly
 
 Examples we will be going through:
-* `notebooks/protein_ligand.ipynb`: Createing a protein-ligand complex from prepared structures
-* `notebooks/virtual_sites.ipynb`:
+* `notebooks/protein_ligand.ipynb`: Creating a protein-ligand complex from prepared structures
+* `notebooks/virtual_sites.ipynb`: Applying virtual sites to a ligand and water

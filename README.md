@@ -25,12 +25,12 @@ This workshop covers the following topics:
 * (Time-permitting) preview some experimental features
 
 Instructive notebooks we will be going through today:
-* `units.ipynb`: Using unit-wrapped quantities used throughout the OpenFF software stack
-* `objectives.ipynb`: Highlighting key objectives of the project
-* `construction.ipynb`: Creating `Interchange` objects
-* `exports.ipynb`: Exporting `Interchange` objects to molecular simulation engines
-* `exploration.ipynb`: Inspecting potential handlers directly
+* `notebooks/units.ipynb`: Using unit-wrapped quantities used throughout the OpenFF software stack
+* `notebooks/objectives.ipynb`: Highlighting key objectives of the project
+* `notebooks/construction.ipynb`: Creating `Interchange` objects
+* `notebooks/exports.ipynb`: Exporting `Interchange` objects to molecular simulation engines
+* `notebooks/exploration.ipynb`: Inspecting potential handlers directly
 
 Examples we will be going through:
-* Protein-ligand
-* Virtual sites
+* `notebooks/protein_ligand.ipynb`: Createing a protein-ligand complex from prepared structures
+* `notebooks/virtual_sites.ipynb`:

@@ -8,3 +8,5 @@ out.top
 protein.pdb
 sliced.pdb
 tmp.in
+data.csv
+trajectory.pdb

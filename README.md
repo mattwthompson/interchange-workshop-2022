@@ -33,4 +33,4 @@ Instructive notebooks we will be going through today:
 
 Examples we will be going through:
 * `notebooks/protein_ligand.ipynb`: Creating a protein-ligand complex from prepared structures
-* `notebooks/virtual_sites.ipynb`: Applying virtual sites to a ligand and water
+* `notebooks/virtual_sites.ipynb`: Applying virtual sites to a ligand and solvating it in 4-site water
